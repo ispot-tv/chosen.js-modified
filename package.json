@@ -1,0 +1,11 @@
+{
+  "name": "chosen.jquery-fixes",
+  "version": "0.1.0",
+  "description": "modified by Jeremy to fix some search problems with the original plugin for ispot.tv",
+  "main": "chosen.jquery-fixes.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ispot-tv/chosen.js-modified"
+  },
+  "license": "The MIT License (MIT)"
+}
